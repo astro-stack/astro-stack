@@ -18,9 +18,20 @@ I build backend products and developer tools that make complex systems easier to
 
 I am a backend developer working mainly with **Python, Django, JavaScript, APIs, and developer workflows**.
 
-My work usually starts with an ambiguous technical or product problem and ends with something more useful: a clear workflow, a tested implementation, better evidence, and a handoff another person can continue.
+I work across the AI application lifecycle: understanding the problem, designing the architecture, integrating language models and external tools, validating structured outputs, evaluating system quality, exposing services through APIs, and packaging applications for reproducible execution.
 
 I am especially interested in the point where backend systems, observability, and AI coding agents meet. The goal is not to add AI for its own sake; it is to help teams make better engineering decisions with context they can inspect.
+
+My current focus includes:
+
+- AI agents with tools, memory, control flow, and safety limits
+- Retrieval-Augmented Generation (RAG) with measurable retrieval quality
+- LLM evaluation using automated metrics and LLM-as-judge approaches
+- Backend services with Python, FastAPI, Pydantic, and REST APIs
+- Model adaptation with LoRA and QLoRA
+- AI + IoT integrations connecting software with physical systems
+
+I am open to remote opportunities as an AI Engineer, AI Software Engineer, Generative AI Engineer, Python Developer, or LLM Application Engineer.
 
 ## Core technologies
 
