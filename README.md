@@ -8,7 +8,7 @@ I build backend products and developer tools that make complex systems easier to
 
 [![Projects](https://img.shields.io/badge/Projects-astro--stack-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/astro-stack?tab=repositories)
 [![Django Orbit](https://img.shields.io/badge/Open%20source-Django%20Orbit-0C4B33?style=flat-square&logo=django&logoColor=white)](https://github.com/astro-stack/django-orbit)
-[![Labs](https://img.shields.io/badge/Labs-wearehik.com-111827?style=flat-square&logo=googlechrome&logoColor=white)](https://labs.wearehik.com)
+[![HIK Labs](https://img.shields.io/badge/HIK%20Labs-wearehik.com-111827?style=flat-square&logo=googlechrome&logoColor=white)](https://labs.wearehik.com)
 
 </div>
 
@@ -49,6 +49,10 @@ Django Orbit records requests, SQL queries, logs, exceptions, cache operations, 
 [![PyPI](https://img.shields.io/badge/Install%20from%20PyPI-3775A9?style=flat-square&logo=pypi&logoColor=white)](https://pypi.org/project/django-orbit/)
 [![MIT License](https://img.shields.io/badge/License-MIT-16A34A?style=flat-square)](https://github.com/astro-stack/django-orbit/blob/main/LICENSE)
 
+### [HIK Labs](https://labs.wearehik.com)
+
+Product and engineering work around software, AI-assisted workflows, and practical systems for teams. HIK is the applied-work context behind the lab link above; Django Orbit remains the open-source project showcased here.
+
 ## Engineering background
 
 - Backend development with Python and Django, including APIs, integrations, and operational tooling.
@@ -76,7 +80,9 @@ Django Orbit records requests, SQL queries, logs, exceptions, cache operations, 
 I’m based in Argentina and work remotely.
 
 - **GitHub:** [@astro-stack](https://github.com/astro-stack)
-- **Labs:** [labs.wearehik.com](https://labs.wearehik.com)
+- **LinkedIn:** [linkedin.com/in/hernangustavochamorro](https://www.linkedin.com/in/hernangustavochamorro)
+- **Email:** [hchamorrodev@gmail.com](mailto:hchamorrodev@gmail.com)
+- **HIK:** [hernan@wearehik.com](mailto:hernan@wearehik.com) · [labs.wearehik.com](https://labs.wearehik.com)
 - **Open source:** [Django Orbit](https://github.com/astro-stack/django-orbit)
 
 ---
