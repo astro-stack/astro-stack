@@ -2,8 +2,7 @@
 
 # Hi, I'm Hernan Chamorro 👋
 
-### Backend Developer · Python · Django · AI-assisted developer tooling
-
+### Backend Developer · Python · Django · AI developer
 I build backend products and developer tools that make complex systems easier to understand, debug, and improve.
 
 [![Projects](https://img.shields.io/badge/Projects-astro--stack-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/astro-stack?tab=repositories)
